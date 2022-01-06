@@ -31,7 +31,7 @@ bson==0.5.8
 camera-calibration==1.12.23
 camera-calibration-parsers==1.11.13
 catkin==0.7.18
-celery==4.4.2
+celery==5.2.2
 certifi==2020.4.5.1
 cffi==1.14.0
 chardet==3.0.4
